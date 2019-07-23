@@ -1,4 +1,4 @@
-Jalandhar, India
+Rajula, India
 
 Lincoln, Pennsylvania
 
@@ -81,7 +81,6 @@ Kowloon, Hong Kong
 Irvington, New Jersey
 
 Parsippany, New Jersey
-
 Haworth, New Jersey
 
 Huntington, New York
